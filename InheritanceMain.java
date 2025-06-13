@@ -1,6 +1,6 @@
 class InheritanceMain {
     public static void main(String[] args) {
-        Manager mgr = new Manager("Fahmid Fadlan", "MGR001", "IT");
+        Manager mgr = new Manager("Fahmid Fadlan", "243040127", "IT");
         
         System.out.println("Informasi Manager:");
         System.out.println("Nama: " + mgr.getNama());
